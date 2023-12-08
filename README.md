@@ -1,1 +1,1 @@
-<img alt="webcrumbs profile" src="https://github.com/thejuliamachado/thejuliamachado/blob/fab45b8a706509b476a0040cbc11eb40570b7078/Property%201%3DDefault.png"/>
+<img alt="webcrumbs profile" src="https://github.com/thejuliamachado/thejuliamachado/blob/ff9af95ab796429cb9510ea9040482909c72645e/contact-card.png"/>
